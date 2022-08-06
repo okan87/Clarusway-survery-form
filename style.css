@@ -1,6 +1,32 @@
-
-
-
-
-
-
+body{
+    margin: 5px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#intro{
+    margin-top: 20px;
+}
+.one{
+    margin-top: 20px;
+}
+ 
+.five{
+    margin-top: 20px;
+}
+.six{
+    margin-top: 20px;
+}
+.seven{
+    margin-top: 5px;
+    line-height: 30px;
+}
+.eight{
+    margin-top: 20px;
+}
+#comment{
+margin-top: 10px;
+/* font-size: 10px; */
+}
