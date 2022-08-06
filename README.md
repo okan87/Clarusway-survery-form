@@ -1,5 +1,6 @@
 # Clarusway-survery-form
 This is a basic html-css project
+[Click to go to the web page](https://okan87.github.io/Clarusway-survery-form/)
 
 
 
